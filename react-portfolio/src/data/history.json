@@ -1,0 +1,29 @@
+[
+    {
+      "role": "Student",
+      "organisation": "LEARN Academy",
+      "startDate": "January, 2024",
+      "endDate": "Present",
+      "experiences": ["", ""],
+      "imageSrc": "history/learn.png"
+    },
+    {
+      "role": "Student",
+      "organisation": "CodeUp",
+      "startDate": "Nov, 2023",
+      "endDate": "Dec, 2023",
+      "experiences": ["", ""],
+      "imageSrc": "history/codeup.png"
+    },
+    {
+      "role": "Student",
+      "organisation": "Georgia Sothern University",
+      "startDate": "Apr, 2000",
+      "endDate": "Jun, 2005",
+      "experiences": [
+        "",
+        ""
+      ],
+      "imageSrc": "history/gsu.png"
+    }
+  ]
