@@ -13,18 +13,18 @@
     },
     {
       "title": "SQL",
-      "imageSrc": "skills/node.png"
+      "imageSrc": "skills/sql.png"
     },
     {
       "title": "Ruby On Rails",
-      "imageSrc": "skills/graphql.png"
+      "imageSrc": "skills/ruby.png"
     },
     {
       "title": "JAVA",
-      "imageSrc": "skills/mongodb.png"
+      "imageSrc": "skills/java.png"
     },
     {
       "title": "JEST",
-      "imageSrc": "skills/figma.png"
+      "imageSrc": "skills/jest.png"
     }
   ]
