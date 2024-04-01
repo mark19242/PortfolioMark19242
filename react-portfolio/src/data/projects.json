@@ -1,9 +1,9 @@
 [
     {
       "title": "Coffee Project",
-      "imageSrc": "projects/project.png",
+      "imageSrc": "projects/solebrew.png",
       "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React"],
+      "skills": ["Javascript", "HTML", "CSS"], 
       "demo": "https://mark19242.github.io/coffee-project/",
       "source": "https://github.com/mark19242/coffee-project"
     },
