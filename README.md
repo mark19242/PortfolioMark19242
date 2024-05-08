@@ -39,7 +39,7 @@ npm install
 # Start the development server
 npm start
 
-Contact
+# Contact
 If you have any questions about the portfolio or want to discuss potential opportunities, please feel free to contact me:
 
 Email: mark19242@gmail.com
