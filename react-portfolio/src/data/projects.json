@@ -1,26 +1,26 @@
 [
-    {
-      "title": "Coffee Project",
-      "imageSrc": "projects/solebrew.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["Javascript", "HTML", "CSS"], 
-      "demo": "https://mark19242.github.io/coffee-project/",
-      "source": "https://github.com/mark19242/coffee-project"
-    },
-    {
-      "title": "Tic-Tac-Toe",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React"],
-      "demo": "https://3000-mark19242-tictactoetict-xpr7hrff2o1.ws-us110.gitpod.io/",
-      "source": "https://github.com/mark19242/tic-tac-toe-tictactoe-seth-mark"
-    },
-    {
-      "title": "Project C",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
-    }
-  ]
+  {
+    "title": "Coffee Project",
+    "imageSrc": "projects/solebrew.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Javascript", "HTML", "CSS"],
+    "demo": "https://mark19242.github.io/coffee-project/",
+    "source": "https://github.com/mark19242/coffee-project"
+  },
+  {
+    "title": "Tic-Tac-Toe",
+    "imageSrc": "projects/tictactoe.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Node", "CSS"],
+    "demo": "https://tic-tac-toe-tictactoe-seth-mark.onrender.com/",
+    "source": "https://github.com/mark19242/tic-tac-toe-tictactoe-seth-mark"
+  },
+  {
+    "title": "Project C",
+    "imageSrc": "projects/SpookySpaceImg.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Ruby On Rails"],
+    "demo": "https://spooky-space-frontend.onrender.com/",
+    "source": "https://github.com/mark19242/spooky-space-frontend"
+  }
+]
