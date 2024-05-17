@@ -1,29 +1,26 @@
 [
-    {
-      
-      "organisation": "LEARN Academy",
-      "startDate": "January, 2024",
-      "endDate": "Present",
-      "experiences": ["Over 1,000 hours coding", "14+ projects, capstone on Render"],
-      "imageSrc": "history/learn.png"
-    },
-    {
-      
-      "organisation": "CodeUp",
-      "startDate": "Nov, 2023",
-      "endDate": "Dec, 2023",
-      "experiences": ["Full-stack web development skills", "Proficient in OOP, MVC, APIs"],
-      "imageSrc": "history/codeup.png"
-    },
-    {
-      
-      "organisation": "Georgia Southern University",
-      "startDate": "Apr, 2000",
-      "endDate": "Jun, 2005",
-      "experiences": [
-        "B.A. in Mass Communication.",
-        "Enhanced communication, marketing skills"
-      ],
-      "imageSrc": "history/gsu.png"
-    }
-  ]
+  {
+    "organisation": "LEARN Academy",
+    "startDate": "January, 2024",
+    "endDate": "May, 2024",
+    "experiences": ["Over 1,000 hours coding", "14+ projects"],
+    "imageSrc": "history/learn.png"
+  },
+  {
+    "organisation": "CodeUp",
+    "startDate": "Nov, 2023",
+    "endDate": "Dec, 2023",
+    "experiences": [
+      "Full-stack web development",
+      "Proficient in OOP, MVC, APIs"
+    ],
+    "imageSrc": "history/codeup.png"
+  },
+  {
+    "organisation": "Georgia Southern University",
+    "startDate": "Apr, 2000",
+    "endDate": "Jun, 2005",
+    "experiences": ["B.A. in Mass Communication", "Minor Speech Communication"],
+    "imageSrc": "history/gsu.png"
+  }
+]

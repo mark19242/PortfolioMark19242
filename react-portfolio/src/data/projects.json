@@ -10,7 +10,7 @@
   {
     "title": "Tic-Tac-Toe",
     "imageSrc": "projects/tictactoe.png",
-    "description": "This is a project is a functional two player Tic-Tac-Toe game.",
+    "description": "This project is a functional two player Tic-Tac-Toe game.",
     "skills": ["React", "Node", "CSS"],
     "demo": "https://tic-tac-toe-tictactoe-seth-mark.onrender.com/",
     "source": "https://github.com/mark19242/tic-tac-toe-tictactoe-seth-mark"
@@ -18,7 +18,7 @@
   {
     "title": "Spooky Space",
     "imageSrc": "projects/SpookySpaceImg.png",
-    "description": "This is a full-stack project with a functional backend and API, where fans of horror movies can share thier thoughts.",
+    "description": "This is a full-stack project where for fans of horror movies.",
     "skills": ["React", "Ruby On Rails", "API"],
     "demo": "https://spooky-space-frontend.onrender.com/",
     "source": "https://github.com/mark19242/spooky-space-frontend"
