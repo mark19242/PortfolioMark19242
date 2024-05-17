@@ -18,7 +18,7 @@
   {
     "title": "Spooky Space",
     "imageSrc": "projects/SpookySpaceImg.png",
-    "description": "This is a full-stack project for fans of horror movies.",
+    "description": "This is a full-stack project for fans of horror movies can interact.",
     "skills": ["React", "Ruby On Rails", "API"],
     "demo": "https://spooky-space-frontend.onrender.com/",
     "source": "https://github.com/mark19242/spooky-space-frontend"
