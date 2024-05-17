@@ -2,7 +2,7 @@
   {
     "title": "Sole Brew",
     "imageSrc": "projects/solebrew.png",
-    "description": "This is a project where it is a sneakerhead inspired coffee shop.",
+    "description": "This is a project that is a sneakerhead inspired coffee shop.",
     "skills": ["Javascript", "HTML", "CSS"],
     "demo": "https://mark19242.github.io/coffee-project/",
     "source": "https://github.com/mark19242/coffee-project"
@@ -18,7 +18,7 @@
   {
     "title": "Spooky Space",
     "imageSrc": "projects/SpookySpaceImg.png",
-    "description": "This is a full-stack project where for fans of horror movies.",
+    "description": "This is a full-stack project for fans of horror movies.",
     "skills": ["React", "Ruby On Rails", "API"],
     "demo": "https://spooky-space-frontend.onrender.com/",
     "source": "https://github.com/mark19242/spooky-space-frontend"
